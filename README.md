@@ -1,6 +1,6 @@
 ## f2py-cmake-bug
 
-This repo is trying to demonstrate a possible issue in `f2py-cmake`
+This repo is trying to demonstrate a possible issue in [`f2py-cmake`](https://github.com/scikit-build/f2py-cmake).
 
 The issue seems to occur when multiple calls to `include(UseF2Py)` occur.
 
